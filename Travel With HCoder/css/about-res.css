@@ -1,0 +1,56 @@
+@media (max-width:1031px){
+
+  .banner .banner-left , .banner .banner-right{
+    float: none;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  .banner-right .btn-banner{
+    /* display: block; */
+    font-size:1.5rem;
+    padding: 0.6em 2.5em;
+  }
+}
+@media (max-width:615px){
+  .about-wrapper .left, .about-wrapper .right{
+    float: none;
+    width: 100%;
+  }
+  .counts .count-item {
+    margin-bottom: 1.5rem;
+    float: left;
+    width: 50%;
+  }
+
+}
+
+@media (max-width:292px)
+{
+  .banner-right .btn-banner{
+    padding: 0.6em 0.5em;
+}
+}
+
+@media(max-width:915px)
+{
+.about{
+    padding-top:12rem;
+}
+  }
+
+@media(max-width:350px)
+{
+.about{
+    padding-top:14rem;
+}
+  }
+  @media(max-width:180px)
+{
+.about{
+    padding-top:20rem;
+}
+  }
+  
+  
+  

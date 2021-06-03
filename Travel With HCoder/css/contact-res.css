@@ -1,0 +1,20 @@
+@media (max-width:1050px){
+  .form-wrapper .company-address, .form-wrapper .form{
+    float: none;
+    width: 98%;
+        margin-bottom: 2rem;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+
+}
+}
+@media (max-width:884px){
+  .contact-form{
+    padding-top:12rem;
+  }
+
+}
+@media (max-width:304px){
+  .contact-form{
+    padding-top:15rem;
+  }
+}
